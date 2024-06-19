@@ -1,3 +1,6 @@
+```
+ // patch for //#!!# metro/native react
+```
 <h1>
   <img src="https://raw.githubusercontent.com/vfile/vfile/fc8164b/logo.svg?sanitize=true" alt="vfile" />
 </h1>
